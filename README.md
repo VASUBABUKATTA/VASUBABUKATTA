@@ -10,25 +10,30 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 
 ## 🚀 Technologies I Use
 
-<h4>Frontend Technologies :</h4> 
+### Frontend Technologies  
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="80">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80">
+</p>
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="80">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80">
+### UI Frameworks  
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="80">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80">
+</p>
 
+### Database  
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="100" title="Oracle"> 
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/68/SQL_logo.png" width="80" title="SQL"> 
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="100" title="MySQL"> 
+  <img src="https://db.apache.org/derby/images/ApacheDerby_Logo.svg" width="100" title="Apache Derby"> 
+</p>
 
-## UI FrameWorks :
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="80">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80">
-
-## Database:
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="80">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80">
 
 ## Projects
 - **Project 1**: [Link](https://github.com/your-repo)
