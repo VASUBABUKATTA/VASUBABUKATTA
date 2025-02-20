@@ -59,4 +59,4 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 ## Connect
 [ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="40"> ](https://www.linkedin.com/in/katta-vasubabu-6b5142229/)
 [ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="40"> ](https://github.com/VASUBABUKATTA) 
-[ <img src="https://www.citypng.com/public/uploads/preview/download-black-male-user-profile-icon-png-701751695035033bwdeymrpov.png" width="40"> ](https://github.com/VASUBABUKATTA)
+[ <img src="https://www.citypng.com/public/uploads/preview/download-black-male-user-profile-icon-png-701751695035033bwdeymrpov.png" width="40"> ](https://vasubabu-profile.vercel.app)
