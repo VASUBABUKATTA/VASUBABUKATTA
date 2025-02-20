@@ -10,9 +10,11 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 
 ## Skills
 -**Frontend Technologies**-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80">
 
-![HTML Logo](<img src="" width="100px")
 
   1.Spring-boot
   2.React Js
