@@ -24,12 +24,23 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="80">
 </p>
 
-### Database  
+### Backend Technologies  
 <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="80">
+  <img src="https://cdn-icons-png.flaticon.com/512/3534/3534086.png" width="80">
+</p>
+
+### 🛠️ Database & Tools 
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494745.png" width="80"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/JavaServer_Pages_logo.svg" width="80"> 
+  <img src="https://spring.io/img/homepage/icon-spring-boot.svg" width="80"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/4305/4305699.png" width="80"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="100" title="Oracle"> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="100" title="MySQL"> 
-  <img src="https://db.apache.org/derby/images/ApacheDerby_Logo.svg" width="100" title="Apache Derby"> 
 </p>
+
 
 
 ## Projects
