@@ -8,8 +8,8 @@ My journey into the world of programming started during my undergraduate studies
 
 I’m also passionate about Agile methodologies, and I am well-versed in Scrum frameworks, which help streamline the development process and ensure high-quality results. By embracing agile practices, I ensure that I am continuously improving my skills and delivering value to the clients in every iteration.
 
-
 ## 🚀 Technologies I Use
+
 ## Frontend Technologies :
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="80">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="80">
