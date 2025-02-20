@@ -9,8 +9,9 @@ My journey into the world of programming started during my undergraduate studies
 I’m also passionate about Agile methodologies, and I am well-versed in Scrum frameworks, which help streamline the development process and ensure high-quality results. By embracing agile practices, I ensure that I am continuously improving my skills and delivering value to the clients in every iteration.
 
 ## Skills
--*Frontend Technologies*-
-  [(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+-**Frontend Technologies**-
+![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+
   1.Spring-boot
   2.React Js
   3.Java
