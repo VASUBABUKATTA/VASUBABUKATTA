@@ -15,12 +15,6 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80">
 
-
-  1.Spring-boot
-  2.React Js
-  3.Java
-  4.MySql
-  5.Oracle
 ## Projects
 - **Project 1**: [Link](https://github.com/your-repo)
 
