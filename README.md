@@ -51,9 +51,9 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 </p>
 
 ## Projects
-[**Insurance:**](https://github.com/VASUBABUKATTA/insurance)
-[ **ChatApplication:** ](https://github.com/VASUBABUKATTA/ChatAplication-Frontend)
-[**Employee Management Systems:** ](https://github.com/VASUBABUKATTA/EmployeeManagementApplication)
+[**Insurance:**](https://github.com/VASUBABUKATTA/insurance)</br>
+[ **ChatApplication:** ](https://github.com/VASUBABUKATTA/ChatAplication-Frontend)</br>
+[**Employee Management Systems:** ](https://github.com/VASUBABUKATTA/EmployeeManagementApplication)</br>
 
 ## Connect
 [ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="40"> ](https://www.linkedin.com/in/katta-vasubabu-6b5142229/)
