@@ -56,6 +56,6 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 **Employee Management Systems:** [Link](https://github.com/VASUBABUKATTA/EmployeeManagementApplication)
 
 ## Contact
-**LinkedIn:**[ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="40"> ](https://www.linkedin.com/in/katta-vasubabu-6b5142229/) 
-**GitHub:** [ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="40"> ](https://github.com/VASUBABUKATTA)
+**LinkedIn:**[ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="40"> ](https://www.linkedin.com/in/katta-vasubabu-6b5142229/) </br>
+**GitHub:** [ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="40"> ](https://github.com/VASUBABUKATTA)  </br>
 **Profile:** [profile](https://github.com/VASUBABUKATTA)
