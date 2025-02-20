@@ -6,7 +6,7 @@ Hello! I'm Vasubabbu Katta, a passionate Full Stack Developer with a strong foun
 
 My journey into the world of programming started during my undergraduate studies, where I developed a keen interest in coding and problem-solving. As I transitioned into full-stack development, I focused on mastering both frontend and backend technologies to create end-to-end solutions. I believe in building clean, maintainable code that solves real-world problems and provides a seamless user experience.
 
-I’m also passionate about Agile methodologies, and I am well-versed in Scrum frameworks, which help streamline the development process and ensure high-quality results. By embracing agile practices, I ensure that I am continuously improving my skills and delivering value to my clients in every iteration.
+I’m also passionate about Agile methodologies, and I am well-versed in Scrum frameworks, which help streamline the development process and ensure high-quality results. By embracing agile practices, I ensure that I am continuously improving my skills and delivering value to the clients in every iteration.
 
 ## Skills
   1.Spring-boot
