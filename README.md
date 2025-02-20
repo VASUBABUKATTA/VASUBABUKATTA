@@ -20,8 +20,8 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 
 ### UI Frameworks  
 <p align="left">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="40">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="40">
 </p>
 
 ### Backend Technologies  
