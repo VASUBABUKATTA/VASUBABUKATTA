@@ -9,7 +9,6 @@ My journey into the world of programming started during my undergraduate studies
 I’m also passionate about Agile methodologies, and I am well-versed in Scrum frameworks, which help streamline the development process and ensure high-quality results. By embracing agile practices, I ensure that I am continuously improving my skills and delivering value to the clients in every iteration.
 
 ## 🚀 Technologies I Use
-
 ### Frontend Technologies  
 <p align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40">
@@ -17,13 +16,11 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40">
 </p>
-
 ### UI Frameworks  
 <p align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="40">
 </p>
-
 ### Backend Technologies  
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="40">
@@ -31,13 +28,11 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" width="40">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" width="40">
 </p>
-
 ### Database
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="40" title="Oracle"> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="40" title="MySQL"> 
 </p>
-
 ### Tools
 <p align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40"> 
@@ -45,10 +40,12 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sublime-Dark.svg" width="40"> 
 </p>
 
-
 ## Projects
-- **Project 1**: [Link](https://github.com/your-repo)
-
+**Insurance:** [Link](https://github.com/VASUBABUKATTA/insurance)
+**ChatApplication:** [Link](https://github.com/VASUBABUKATTA/ChatAplication-Frontend)
+**Employee Management Systems:** [Link](https://github.com/VASUBABUKATTA/EmployeeManagementApplication)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/katta-vasubabu-6b5142229/) | [GitHub](https://github.com/VASUBABUKATTA)
+**LinkedIn:**[LinkedIn](https://www.linkedin.com/in/katta-vasubabu-6b5142229/) 
+**GitHub:** [GitHub](https://github.com/VASUBABUKATTA)
+**Profile:** [profile](https://github.com/VASUBABUKATTA)
