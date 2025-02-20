@@ -26,14 +26,14 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 
 ### Backend Technologies  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="50">
-  <img src="https://cdn-icons-png.flaticon.com/512/3534/3534086.png" width="50">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="50">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" width="50">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" width="50">
 </p>
 
 ### 🛠️ Database & Tools 
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494745.png" width="80"> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="80"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/JavaServer_Pages_logo.svg" width="80"> 
   <img src="https://spring.io/img/homepage/icon-spring-boot.svg" width="80"> 
   <img src="https://cdn-icons-png.flaticon.com/512/4305/4305699.png" width="80"> 
