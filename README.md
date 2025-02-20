@@ -12,7 +12,7 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 
 ### Frontend Technologies  
 <p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="20">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50">
