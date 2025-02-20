@@ -10,7 +10,7 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 
 ## 🚀 Technologies I Use
 
-## Frontend Technologies :
+<h4>Frontend Technologies :</h4> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="80">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="80">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80">
