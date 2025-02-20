@@ -45,12 +45,17 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sublime-Dark.svg" width="40"> 
 </p>
 
+### Version Control
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="40"> 
+</p>
+
 ## Projects
 **Insurance:** [Link](https://github.com/VASUBABUKATTA/insurance)
 **ChatApplication:** [Link](https://github.com/VASUBABUKATTA/ChatAplication-Frontend)
 **Employee Management Systems:** [Link](https://github.com/VASUBABUKATTA/EmployeeManagementApplication)
 
 ## Contact
-**LinkedIn:**[LinkedIn](https://www.linkedin.com/in/katta-vasubabu-6b5142229/) 
-**GitHub:** [GitHub](https://github.com/VASUBABUKATTA)
+**LinkedIn:**[ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="40"> ](https://www.linkedin.com/in/katta-vasubabu-6b5142229/) 
+**GitHub:** [ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="40"> ](https://github.com/VASUBABUKATTA)
 **Profile:** [profile](https://github.com/VASUBABUKATTA)
