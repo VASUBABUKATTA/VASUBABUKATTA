@@ -30,7 +30,7 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="100" title="Oracle"> 
   <img src="https://upload.wikimedia.org/wikipedia/en/6/68/SQL_logo.png" width="80" title="SQL"> 
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="100" title="MySQL"> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="100" title="MySQL"> 
   <img src="https://db.apache.org/derby/images/ApacheDerby_Logo.svg" width="100" title="Apache Derby"> 
 </p>
 
