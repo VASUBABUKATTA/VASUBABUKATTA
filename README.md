@@ -48,6 +48,7 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 ### Version Control
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="40"> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="40"> 
 </p>
 
 ## Projects
