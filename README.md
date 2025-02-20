@@ -12,23 +12,23 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 
 ### Frontend Technologies  
 <p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="80">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50">
 </p>
 
 ### UI Frameworks  
 <p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="80">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="80">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="50">
 </p>
 
 ### Backend Technologies  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="80">
-  <img src="https://cdn-icons-png.flaticon.com/512/3534/3534086.png" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="50">
+  <img src="https://cdn-icons-png.flaticon.com/512/3534/3534086.png" width="50">
 </p>
 
 ### 🛠️ Database & Tools 
