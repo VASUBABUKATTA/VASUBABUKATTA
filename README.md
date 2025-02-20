@@ -33,16 +33,8 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
 
 ### 🛠️ Database
 <p align="left">
-  <p align="left">
-  <!-- SQL Icon -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQL-Dark.svg" width="80" alt="SQL Icon">
-  
-  <!-- MySQL Icon -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="80" alt="MySQL Icon">
-</p>
-
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="100" title="Oracle"> 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="100" title="MySQL">  -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="80" title="Oracle"> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="80" title="MySQL"> 
 </p>
 
 ## Tools
