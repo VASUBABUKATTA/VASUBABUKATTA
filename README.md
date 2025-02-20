@@ -31,16 +31,29 @@ I’m also passionate about Agile methodologies, and I am well-versed in Scrum f
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" width="50">
 </p>
 
-### 🛠️ Database & Tools 
+### 🛠️ Database
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" width="80"> 
+  <p align="left">
+  <!-- SQL Icon -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQL-Dark.svg" width="80" alt="SQL Icon">
+  
+  <!-- MySQL Icon -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="80" alt="MySQL Icon">
+</p>
+
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="100" title="Oracle"> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="100" title="MySQL">  -->
+</p>
+
+## Tools
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="80"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/JavaServer_Pages_logo.svg" width="80"> 
   <img src="https://spring.io/img/homepage/icon-spring-boot.svg" width="80"> 
   <img src="https://cdn-icons-png.flaticon.com/512/4305/4305699.png" width="80"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="100" title="Oracle"> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="100" title="MySQL"> 
 </p>
-
 
 
 ## Projects
